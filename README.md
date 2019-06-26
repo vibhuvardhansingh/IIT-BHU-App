@@ -30,5 +30,12 @@ Acadenic Details and Calender.
 Map of Hot Spots in the campus.
 Academic detais and Research of Partical Student(Bunk Monitor, Time Table etc.)
 
+RoadMap:
+
+-SplashScreen and Login Screen.
+-App bar, Navigation Drawer and Bottom Navigation/Tab Layout.
+-Intergration with Firebase for Authentication and Firestore.
+-Integrating Google Maps.
+
 
 
